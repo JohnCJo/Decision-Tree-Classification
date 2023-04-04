@@ -1,4 +1,6 @@
-# Decision-Tree-ClassificationAssume that you wish to buy a car and you use a dataset to check whether your decision
+# Decision-Tree-Classification
+
+Assume that you wish to buy a car and you use a dataset to check whether your decision
 of buying a model is acceptable or not. The dataset has attributes describing buying
 price, maintenance cost, number of doors, capacity(number of persons), lug boot, and
 safety and one binary attribute, profitable describing target value. Assume all the
